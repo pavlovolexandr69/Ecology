@@ -1,0 +1,9 @@
+com\di\LocalAuthority.class
+com\di\Main.class
+com\di\WaterSensor.class
+com\di\SensorImpl.class
+com\di\Ecologist.class
+com\di\Sensor.class
+com\di\Reportable.class
+com\di\AirSensor.class
+com\di\EcologistModule.class
